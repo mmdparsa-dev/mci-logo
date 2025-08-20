@@ -1,6 +1,5 @@
 Creators: Seyyed Mohammad Parsa Haji Razavi (Telegram: mmdparsa_dev)
 
-از شما متشکریم که ما را دانلود کردید 😉
 
 این فایل‌ها به صورت SVG از سایت همراه اول دریافت و سپس تبدیل شده‌اند.
 
@@ -16,7 +15,6 @@ Creators: Seyyed Mohammad Parsa Haji Razavi (Telegram: mmdparsa_dev)
 
 
 
-Thank you for downloading! 😉
 
 These files were originally obtained as SVGs from the Hamrah Aval website and then converted.
 
